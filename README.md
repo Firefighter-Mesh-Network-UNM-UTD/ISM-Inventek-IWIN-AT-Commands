@@ -1,3 +1,6 @@
+# Important 
+  * Have Stlink on your host PC prior to installing the ```EsWiFi``` Demo APP.
+  * ``` C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility ```
 # Inventek IWIN AT Commands (ES-WiFi)
   Main web page: https://www.inventeksys.com/es-wifi-support/
 # Init Setup
