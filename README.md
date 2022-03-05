@@ -1,7 +1,7 @@
 # Inventek IWIN AT Commands (ES-WiFi)
   Main web page: https://www.inventeksys.com/es-wifi-support/
 # Init Setup
-  Bin File Provided Above 
+  Baudrate 115k
 # P2P 1:1 and UDP Setup
 ![image](https://user-images.githubusercontent.com/54381052/156871284-4c14297c-50bb-405c-962b-b112a0f049a1.png)
 
