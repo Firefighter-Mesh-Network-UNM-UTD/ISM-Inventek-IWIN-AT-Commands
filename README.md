@@ -5,6 +5,7 @@
   Main web page: https://www.inventeksys.com/es-wifi-support/
 # Init Setup
   Baudrate 115k
+  Bin File Provided above
 # P2P 1:1 and UDP Setup
 ![image](https://user-images.githubusercontent.com/54381052/156871284-4c14297c-50bb-405c-962b-b112a0f049a1.png)
 
