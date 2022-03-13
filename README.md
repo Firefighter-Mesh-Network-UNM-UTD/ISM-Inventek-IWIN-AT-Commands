@@ -9,6 +9,8 @@
 # Init Setup
   Baudrate 115k
   Bin File Provided:
+  https://github.com/Firefighter-Mesh-Network-UNM-UTD/ISM-Inventek-IWIN-AT-Commands/blob/main/ISM43362_M3G_L44_C6.2.1.11%5B1%5D.bin
+  Oficial site:
   https://www.inventeksys.com/iwin/firmware/ 
 # P2P 1:1 and UDP Setup
 ![image](https://user-images.githubusercontent.com/54381052/156871284-4c14297c-50bb-405c-962b-b112a0f049a1.png)
