@@ -7,9 +7,9 @@
 # Inventek IWIN AT Commands (ES-WiFi)
   Main web page: https://www.inventeksys.com/es-wifi-support/
 # Init Setup
-  Baudrate 115k
-  Bin File Provided:
-  https://github.com/Firefighter-Mesh-Network-UNM-UTD/ISM-Inventek-IWIN-AT-Commands/blob/main/ISM43362_M3G_L44_C6.2.1.11%5B1%5D.bin
+  Baudrate 115k or 115200
+  Bin File Provided:\
+  https://github.com/Firefighter-Mesh-Network-UNM-UTD/ISM-Inventek-IWIN-AT-Commands/blob/main/ISM43362_M3G_L44_C6.2.1.11%5B1%5D.bin \
   Oficial site:
   https://www.inventeksys.com/iwin/firmware/ 
 # P2P 1:1 and UDP Setup
