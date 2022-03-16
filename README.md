@@ -1,6 +1,6 @@
 # Create Project Using the IWIN AT Commands
 ### LINK: https://os.mbed.com/teams/ST/code/DISCO_L475VG_IOT01-wifi-client/ \
-Note: name change (not necessary)
+Note: name change main.cpp (not necessary)
 ![image](https://user-images.githubusercontent.com/54381052/158496865-9c20b71d-1e04-4fcc-af04-8ee8ebcbbf47.png)
 
 
